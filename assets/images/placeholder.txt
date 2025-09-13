@@ -1,0 +1,5 @@
+Placeholder for profile images and illustrations.
+For production, add actual images here:
+- profile1.jpg, profile2.jpg, profile3.jpg (for profile avatars)
+- blind_date_illustration.png (for the blind date illustration)
+
